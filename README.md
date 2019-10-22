@@ -30,8 +30,8 @@
 9. Model Performance.
 10. Conclusion
 11. R code.
+12. Python Code.
 
--  Note:R code is better coded than python as i was interested in R more than python at that time. 
 -  GitHub folder contains: 
 1. R code of project in ‘.R format’: Churn Reduction using R.R 
 2. Python code of project in ‘.ipynb format’: Churn Reduction using Python.ipynb 
